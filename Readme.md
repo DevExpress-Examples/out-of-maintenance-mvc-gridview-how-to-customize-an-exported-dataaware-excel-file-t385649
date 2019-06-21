@@ -7,6 +7,9 @@
 * [Index.cshtml](./CS/T385649/Views/Home/Index.cshtml)
 <!-- default file list end -->
 # MVC GridView - How to customize an exported DataAware Excel file
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/t385649)**
+<!-- run online end -->
 
 
 <p>This example shows how to change different settings in an Excel file exported in DataAware mode. The first sheet in this Excel file is protected with the "123456" password.</p>
