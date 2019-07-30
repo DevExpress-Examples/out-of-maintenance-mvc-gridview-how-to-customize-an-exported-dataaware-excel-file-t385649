@@ -8,7 +8,7 @@
 <!-- default file list end -->
 # MVC GridView - How to customize an exported DataAware Excel file
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t385649)**
+**[[Run Online]](https://codecentral.devexpress.com/t385649/)**
 <!-- run online end -->
 
 
